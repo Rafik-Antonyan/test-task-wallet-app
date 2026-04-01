@@ -1,5 +1,6 @@
 node_modules/
 dist/
+.npmrc
 *.tsbuildinfo
 vite.config.js.timestamp-*
 npm-debug.log*
